@@ -1,4 +1,4 @@
-// Converta o seguinte objeto JavaScript para uma string JSON e depois recupere-o:
+// 1. Converta o seguinte objeto JavaScript para uma string JSON e depois recupere-o:
 
 
 const usuario = {
