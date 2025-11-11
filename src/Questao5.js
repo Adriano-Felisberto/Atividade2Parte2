@@ -7,6 +7,7 @@ const pedidosJSON = `{
 {"id": 3, "cliente": "Carla", "total": 45.30, "status": "entregue"}
 ]
 }`;
+
 // Função deve retornar: "2 pedidos entregues, 1 em processamento. Valor total: R$ 255,70"
 
 let processamentoPed = (jsonString) => {
