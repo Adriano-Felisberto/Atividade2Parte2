@@ -1,4 +1,4 @@
-// Escreva uma função que formate um objeto de endereço em uma string legível
+// 4. Escreva uma função que formate um objeto de endereço em uma string legível
 // usando template strings:
 const endereco = {
 rua: "Av. Paulista",
