@@ -1,4 +1,5 @@
-// Crie uma função que processe uma lista de pedidos e retorne um resumo:
+// 5. Crie uma função que processe uma lista de pedidos e retorne um resumo:
+
 const pedidosJSON = `{
 "pedidos": [
 {"id": 1, "cliente": "Fernanda", "total": 120.50, "status": "entregue"},
