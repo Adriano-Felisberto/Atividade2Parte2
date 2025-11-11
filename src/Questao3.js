@@ -1,4 +1,4 @@
-// Crie uma função que recebe uma string JSON de produtos e retorna apenas os
+// 3. Crie uma função que recebe uma string JSON de produtos e retorna apenas os
 // nomes dos produtos com preço acima de R$ 50:
 
 const produtosJSON = `{
