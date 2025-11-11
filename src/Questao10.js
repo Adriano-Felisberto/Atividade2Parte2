@@ -1,5 +1,6 @@
 // 10. Validação e Tratamento de Erros: Escreva uma função segura que tente
 // converter uma string para JSON e trate possíveis erros:
+
 function parseJSONSafe(jsonString) {
     try {
         return JSON.parse(jsonString);
